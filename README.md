@@ -8,4 +8,12 @@
 | [0595-big-countries](https://github.com/devkhushii/DBMS/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/devkhushii/DBMS/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/devkhushii/DBMS/tree/master/1683-invalid-tweets) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
