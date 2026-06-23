@@ -15,11 +15,13 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/devkhushii/DBMS/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
