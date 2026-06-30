@@ -8,11 +8,11 @@ public:
         freq[s[right] - 'A']++;
         maxFreq = max(maxFreq, freq[s[right] - 'A']);
         
-        // Window invalid: replacements needed > k
+       
         while ((right - left + 1) - maxFreq > k) {
             freq[s[left] - 'A']--;
             left++;
-            // Note: we don't update maxFreq (lazy deletion optimization)
+            
         }
         result = max(result, right - left + 1);
     }
