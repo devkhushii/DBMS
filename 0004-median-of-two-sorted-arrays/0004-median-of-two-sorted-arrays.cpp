@@ -22,19 +22,19 @@ public:
 
              right--;  
     }
-    if(j>i){
+   
         while(j>=0){
             merged[right]=nums2[j];
             j--;
             right--;
         }
-    }else{
+   
         while(i>=0){
             merged[right]=nums1[i];
             i--;
             right--;
         }
-    }
+    
     int mid=merged.size()/2;
     if (merged.size()%2==0){
         ans=(merged[mid]+merged[mid-1])/2.0;
