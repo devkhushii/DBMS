@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/devkhushii/DBMS/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/devkhushii/DBMS/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/devkhushii/DBMS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
