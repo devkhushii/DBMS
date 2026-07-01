@@ -34,6 +34,7 @@
 | [0049-group-anagrams](https://github.com/devkhushii/DBMS/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/devkhushii/DBMS/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/devkhushii/DBMS/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/devkhushii/DBMS/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/devkhushii/DBMS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
